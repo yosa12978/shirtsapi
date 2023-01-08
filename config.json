@@ -1,0 +1,6 @@
+{
+    "port": 8090,
+    "address": "0.0.0.0",
+    "mongo": "mongodb://localhost:27017/",
+    "database": "myshirts"
+}
